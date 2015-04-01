@@ -1,4 +1,4 @@
-My personal blog
+My personal page
 ================
 My github page as a personal landing page.
 
