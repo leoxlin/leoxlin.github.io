@@ -1,6 +1,6 @@
 My personal blog
 ================
-My github page as a personal blog created with [Jekyll](http://jekyllrb.com). You can view the content on http://www.leoxlin.com.
+My github page as a personal landing page.
 
 If you are interested in me, please checkout my:
 - Github: https://github.com/leoxlin
