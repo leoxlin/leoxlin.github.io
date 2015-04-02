@@ -6,6 +6,7 @@ function hideContent(){
 
 $(document).ready(function() {
   hideContent();
+  $("#default").show();
 
   $("#about-l").click(function(){
     hideContent();
@@ -23,5 +24,8 @@ $(document).ready(function() {
     hideContent();
     $("#dot").show();
   })
-
+  $(".default-l").click(function(){
+    hideContent();
+    $("#default").show();
+  });
 });
