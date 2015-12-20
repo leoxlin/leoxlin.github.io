@@ -7,4 +7,3 @@ If you are interested in me, please checkout my:
 - Medium: https://medium.com/@leoxlin
 - Twitter: https://twitter.com/leoxlin
 - LinkedIn: https://linkedin.com/in/leoxlin
-- ChallengePost: http://challengepost.com/leoxlin
