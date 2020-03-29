@@ -20,22 +20,12 @@ hr {
   border-color: #F5F5F5;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: 'Titillium Web', sans-serif;
-}
-
-h5 {
-  font-size:120%;
-  font-style: italic;
-}
-
 h1.cursive {
   font-family: 'Cambria', cursive;
 }
 
 a {
   color: #9E9E9E;
-
 }
 
 a.title {
@@ -53,14 +43,6 @@ div.header {
 div.centering {
   margin-left: auto;
   margin-right: auto;
-}
-
-div.content {
-  margin-top:1%;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
-  font-family: 'Titillium Web', sans-serif;
 }
 
 div.menu {
@@ -81,22 +63,14 @@ div.nav ul {
 div.nav ul li {
   display: inline;
   padding: 1%;
-  font-family: 'Titillium Web', sans-serif;
-  text-decoration: none;
 }
 
-div.nav ul li a {
-  font-family: 'Titillium Web', sans-serif;
+div.nav a {
+  text-decoration: none;
+  font-family: 'Cambria', sans-serif;
   color: #222;
-  text-decoration: none;
 }
 
-div.nav ul li a:hover {
+div.nav a:hover {
   color: #9E9E9E;
-  text-decoration: none;
-}
-
-div.nav ul li:hover {
-  color: #9E9E9E;
-  text-decoration: none;
 }
