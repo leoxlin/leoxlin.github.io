@@ -7,8 +7,8 @@
   user-select: none;
 }
 
-h1.cursive {
-  font-family: 'Cambria', cursive;
+h1 {
+  font-family: 'Apple Chancery', cursive;
 }
 
 a {
@@ -27,34 +27,29 @@ div.header {
   text-align: center;
 }
 
-div.centering {
+div.content {
   margin-left: auto;
   margin-right: auto;
-}
-
-div.menu {
-  text-align: center;
-}
-
-div.centering {
   text-align: center;
 }
 
 div.nav ul {
   margin: 0;
   padding: 0;
+  text-align: center;
   list-style-type: none;
   text-decoration: none;
 }
 
-div.nav ul li {
+div.nav li {
   display: inline;
   padding: 1%;
 }
 
 div.nav a {
   text-decoration: none;
-  font-family: 'Cambria', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 90%;
   color: #222;
 }
 
