@@ -67,27 +67,36 @@ div.menu {
   text-align: center;
 }
 
+div.centering {
+  text-align: center;
+}
+
 div.nav ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-decoration: none;
 }
 
 div.nav ul li {
   display: inline;
   padding: 1%;
   font-family: 'Titillium Web', sans-serif;
+  text-decoration: none;
 }
 
 div.nav ul li a {
   font-family: 'Titillium Web', sans-serif;
   color: #222;
+  text-decoration: none;
 }
 
 div.nav ul li a:hover {
   color: #9E9E9E;
+  text-decoration: none;
 }
 
 div.nav ul li:hover {
   color: #9E9E9E;
+  text-decoration: none;
 }
