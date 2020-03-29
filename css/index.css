@@ -33,6 +33,16 @@ div.content {
   text-align: center;
 }
 
+div.footer {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 80%;
+  color: #222;
+}
+
 div.nav ul {
   margin: 0;
   padding: 0;
